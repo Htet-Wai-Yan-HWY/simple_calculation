@@ -1,0 +1,5 @@
+/home/zyme/simple_calculation/Algorithm/example1/build/CMakeFiles/uninstall.dir
+/home/zyme/simple_calculation/Algorithm/example1/build/CMakeFiles/bt_example_uninstall.dir
+/home/zyme/simple_calculation/Algorithm/example1/build/CMakeFiles/bt_example.dir
+/home/zyme/simple_calculation/Algorithm/example1/build/CMakeFiles/edit_cache.dir
+/home/zyme/simple_calculation/Algorithm/example1/build/CMakeFiles/rebuild_cache.dir
