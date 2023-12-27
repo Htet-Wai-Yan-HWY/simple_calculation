@@ -1,0 +1,21 @@
+import numpy as np
+
+# ECEF coordinates
+X_ecef = -538941.8249975072
+Y_ecef = 5891214.748360314
+Z_ecef = 2376070.879739008
+
+# Translation vector (T) and rotation matrix (R)
+T = np.array([0, 0, 0])  # Assuming no translation
+R = np.array([
+    [-0.842188, 0.539611, 0],
+    [-0.539611, -0.842188, 0],
+    [0, 0, 1]
+])
+
+# Apply rotation and translation
+ECEF_coords = np.array([X_ecef, Y_ecef, Z_ecef])
+Local_coords = np.dot(R, ECEF_coords - T)
+
+# Output local Cartesian coordinates
+print(f'Local Cartesian Coordinates: X = {Local_coords[0]}, Y = {Local_coords[1]}, Z = {Local_coords[2]}')
