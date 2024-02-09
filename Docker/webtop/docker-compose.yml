@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  webtop:
+    container_name: zyme
+    enviroment:
+      # - PUID=1000
+      # - PGID=1000
+      # - TZ=America/Chicago
+    volumes:
+      - /home/zyme/simple_programming/Docker:/config
+    ports:
+      - 3000:3000
+    shm_size: "2gb"
+    reatart: unless-stopped
