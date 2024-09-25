@@ -1,0 +1,16 @@
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/CMakeFiles/libB.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/CMakeFiles/ProjectB.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/CMakeFiles/edit_cache.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/CMakeFiles/rebuild_cache.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/CMakeFiles/list_install_components.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/CMakeFiles/install.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/CMakeFiles/install/local.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/CMakeFiles/install/strip.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/build_A/CMakeFiles/libA.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/build_A/CMakeFiles/ProjectA.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/build_A/CMakeFiles/edit_cache.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/build_A/CMakeFiles/rebuild_cache.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/build_A/CMakeFiles/list_install_components.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/build_A/CMakeFiles/install.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/build_A/CMakeFiles/install/local.dir
+/home/zyme/Desktop/simple_programming/Cmake/projectB/build/build_A/CMakeFiles/install/strip.dir
