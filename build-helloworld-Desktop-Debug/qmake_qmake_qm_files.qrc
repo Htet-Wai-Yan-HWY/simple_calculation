@@ -1,5 +1,0 @@
-<!DOCTYPE RCC><RCC version="1.0">
-<qresource prefix="i18n">
-<file alias="helloworld_en_US.qm">/home/zyme/build-helloworld-Desktop-Debug/.qm/helloworld_en_US.qm</file>
-</qresource>
-</RCC>
